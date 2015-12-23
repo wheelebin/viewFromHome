@@ -1,3 +1,4 @@
 * Add the terminal chat feature
 * Add proper comments
-* figure out a way to make checking statuses fast
+* Figure out a way to make checking statuses fast
+* Add a way to input account without having to config
